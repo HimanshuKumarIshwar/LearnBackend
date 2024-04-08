@@ -1,0 +1,23 @@
+{
+  "name": "learnbackend",
+  "version": "1.0.0",
+  "description": "Learn Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuKumarIshwar/LearnBackend.git"
+  },
+  "keywords": [
+    "javaScript",
+    "Backend"
+  ],
+  "author": "Himanshu Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuKumarIshwar/LearnBackend/issues"
+  },
+  "homepage": "https://github.com/HimanshuKumarIshwar/LearnBackend#readme"
+}
